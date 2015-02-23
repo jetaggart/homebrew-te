@@ -21,6 +21,6 @@ class Te < Formula
   end
 
   test do
-    system bin}/"te", "help"
+    system bin/"te", "help"
   end
 end
