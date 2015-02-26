@@ -4,8 +4,7 @@ class Te < Formula
   include Language::Haskell::Cabal
 
   homepage "https://github.com/jetaggart/te"
-  url "https://github.com/jetaggart/te/archive/v0.1.2.tar.gz"
-  sha1 "43e744107ef9c8bc8f0489e57bbc2d8beded855f"
+  url "https://github.com/jetaggart/te/archive/v0.1.3.tar.gz"
 
   depends_on "ghc" => :build
   depends_on "cabal-install" => :build
